@@ -1,0 +1,250 @@
+body{
+    background-color: #D5D5D5; 
+    font-family: system-ui;
+}
+.container{
+    background-color: #E9E7EA;
+    width: 1000px;
+    max-width: 100%;
+    margin: auto;
+    padding: 50px;
+    box-shadow: 0 10px 50px #858585;
+    display: grid;
+    grid-template-columns: 35% 60%;
+    column-gap: 5%;
+    row-gap: 30px;
+}
+.avatar img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.avatar{
+    display: flex;
+    justify-content: center;
+    
+}
+.School h2{
+    color:white;
+    border-style: ridge;
+    padding:15px;
+    font-weight:500;
+    font-size: large;
+    margin: auto;
+    background-color: #eb5a06;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.School h3{
+margin:0%;
+letter-spacing: 1px;
+font-weight: 500;
+line-height: 3;
+}
+
+.School .major{
+text-align: left;
+line-height: 2;
+
+}
+
+.School .description{
+    list-style: none;
+    padding:0;
+    text-align: left;
+
+}
+
+.name h1{
+    text-align: center;
+    font-weight:bold;
+    font-size:xx-large;
+    color:#eb5a06;
+}
+
+.apply h2{
+    text-align: center;
+    color:black;
+    font-size:large;
+    font-weight: 400;
+}
+
+.EXPERIENCES h2{
+    color:white;
+    border-style: ridge;
+    padding:15px;
+    font-weight:500;
+    font-size: large;
+    margin: auto;
+    background-color: #eb5a06;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.EXPERIENCES h3{
+    text-align: left;
+    margin: 5px;
+    font-weight:500;
+    line-height: 3;
+}
+
+
+.EXPERIENCES .location{
+    text-align: left;
+    line-height: none;
+    font-weight:400;
+}
+
+.EXPERIENCES p{
+    font-weight:400;
+    text-align: left;
+}
+
+.contact h2{ 
+    color:white;
+    border-style: ridge;
+    padding:15px;
+    font-weight:500;
+    font-size: large;
+    margin: auto;
+    background-color: #eb5a06;
+    letter-spacing: 2px;
+    text-align: center;
+
+}
+
+.contact .information{
+    padding:0;
+    list-style: none;
+    font-weight:400;
+    text-align: left;
+    line-height: 2;
+}
+
+.target h2{
+    color:white;
+    border-style: ridge;
+    padding:15px;
+    font-weight:500;
+    font-size: large;
+    margin: auto;
+    background-color: #eb5a06;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.skills h2{
+    color:white;
+    border-style: ridge;
+    padding:15px;
+    font-weight:500;
+    font-size: large;
+    margin: auto;
+    background-color: #eb5a06;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.certificate h2{
+    color:white;
+    border-style: ridge;
+    padding:15px;
+    font-weight:500;
+    font-size: large;
+    margin: auto;
+    background-color: #eb5a06;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.item1 p{
+    font-weight:400;
+    text-align: left;
+
+}
+
+.favorite h2{
+    color:white;
+    border-style: ridge;
+    padding:15px;
+    font-weight:500;
+    font-size: large;
+    margin: auto;
+    background-color: #eb5a06;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.favorite p{
+    font-weight:400;
+    text-align: left;
+}
+.PROJECT h2{
+    color:white;
+    border-style: ridge;
+    padding:15px;
+    font-weight:500;
+    font-size: large;
+    margin: auto;
+    background-color: #eb5a06;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.item h3{
+    text-align: left;
+    margin: 5px;
+    font-weight:500;
+    line-height: 3;
+}
+
+.custumer{
+    text-align: left;
+    line-height: none;
+    font-weight:400;
+}
+
+.description{
+    text-align: left;
+    line-height: 2;
+    font-weight:400;
+}
+
+.item p{
+    font-weight:400;
+    text-align: left;
+}
+
+.item .tech{
+    font-weight:400;
+    text-align: left;
+}
+
+.More h2{
+    color:white;
+    border-style: ridge;
+    padding:15px;
+    font-weight:500;
+    font-size: large;
+    margin: auto;
+    background-color: #eb5a06;
+    letter-spacing: 2px;
+    text-align: center;   
+}
+
+.More h3{
+    text-align: left;
+    margin: 5px;
+    font-weight:500;
+    line-height: 2; 
+}
+
+.More p{
+    font-weight:400;
+    text-align: left;
+}
+
+
+
